@@ -26,7 +26,7 @@ public class SortingLogic {
 			List strList = new ArrayList ();
 			strList.add("Priti");
 			strList.add("Piya");
-			strList.add("Abishek");
+			strList.add("Abhishek");
 			strList.add("Saurav");
 			
 			System.out.println("ArrayList before sorting :" +strList.toString());
